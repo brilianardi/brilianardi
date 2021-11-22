@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec1bb4bb-6f71-4ff6-8573-f84c547fec90": {
+      "ProjectGuid": "ec1bb4bb-6f71-4ff6-8573-f84c547fec90",
+      "DisplayName": "BootcampDay3_BrilianArdiKusuma",
+      "ColorIndex": 0
+    },
+    "dd864055-e1d6-4063-8b33-9509ecaa113b": {
+      "ProjectGuid": "dd864055-e1d6-4063-8b33-9509ecaa113b",
+      "DisplayName": "Demo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

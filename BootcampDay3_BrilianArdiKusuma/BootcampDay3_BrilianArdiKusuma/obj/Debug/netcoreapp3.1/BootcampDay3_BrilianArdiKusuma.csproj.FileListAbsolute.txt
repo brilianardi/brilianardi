@@ -1,0 +1,14 @@
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.exe
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.deps.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.runtimeconfig.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.runtimeconfig.dev.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.dll
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\bin\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.pdb
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.csproj.AssemblyReference.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.AssemblyInfoInputs.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.AssemblyInfo.cs
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.csproj.CoreCompileInputs.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.dll
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.pdb
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\BootcampDay3_BrilianArdiKusuma\obj\Debug\netcoreapp3.1\BootcampDay3_BrilianArdiKusuma.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\RLNF\Documents\Xsis Bootcamp\Tugas\BootcampDay3_BrilianArdiKusuma\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
